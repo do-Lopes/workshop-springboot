@@ -21,3 +21,15 @@ git clone https://github.com/do-Lopes/workshop-springboot
 # entrar na no arquivo main e executar
 src/main/java/com/shopservice/course/ShopProjectApplication.java
 ```
+## Como acessar o banco de dados
+Após o sistema ja estiver sendo executado acesse o endereço **http://localhost:8080/h2-console**.
+
+![DB incialização](https://github.com/do-Lopes/assets/blob/main/Springboot-workshop-assets/image-inicializacao-db.png)
+
+```bash
+# Altere o valor do campo JDBC URL
+jdbc:h2:mem:testdb
+
+# Insira o valor no campo User Name
+sa
+```
