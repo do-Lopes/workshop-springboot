@@ -16,7 +16,7 @@ Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/do-Lopes/workshop-springboot
 
 # entrar na no arquivo main e executar
 src/main/java/com/shopservice/course/ShopProjectApplication.java
