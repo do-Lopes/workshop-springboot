@@ -1,6 +1,6 @@
 # Workshop-springboot
 Projeto de back-end desenvolvido durante o curso de **Java COMPLETO Programação Orientada a Objetos**, feito na plataforma [Udemy](https://www.udemy.com/).
-O programa consiste em um sistema de loja onde produtos e usuários podem ser cadastrados sistema e, depois, podem ser acessados por meio do banco de dados que suas informações estão guaradadas.
+O programa consiste em um sistema de loja onde produtos e usuários podem ser cadastrados no sistema e, depois, podem ser acessados por meio do banco de dados.
 
 # Tecnologias utilizadas
 ## Back end
